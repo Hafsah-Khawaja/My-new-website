@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+nav{
+    background-color: lightblue;
+}
+
+a:link{
+    color:blue;
+}
+
+h1{
+   font-style: Serif;
+   font-size: 34;
+   text-align: center;
+}
+
+body{
+    font-style: Arial;
+    font-size: 22;
+    text-align:justify;
+}

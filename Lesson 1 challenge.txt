@@ -1,0 +1,36 @@
+<!<!DOCTYPE html>
+<html lang="en">
+<p> This page shows how to make a pasta bake with only a few ingredients. Most of the ingredients you mostly will have at home.This is a delicious and easy way to make a pasta bake.</p>
+    <title>delicious and easy pasta bake recipe</title>
+<p> The most simple easy and delicious pasta bake recipe. Easy cheese and tomato pasta bake for nights where you want something delicious and comforting to eat but can’t be bothered to spend ages in the kitchen. This recipe takes 50 minutes. This recipe serves 6 people. </p>
+img src="https://simply-delicious-food.com/wp-content/uploads/2017/04/easy-cheese-and-tomato-pasta-bake-2.jpg" alt= photo of pasta bake
+<p>Nutrition Calories: 401kcal | Carbohydrates: 57g | Protein: 31g | Fat: 10g | Saturated Fat: 3g | Cholesterol: 16mg | Sodium: 337mg | Potassium: 358mg | Fiber: 13g | Sugar: 13g | Vitamin A: 880IU | Vitamin C: 33mg | Calcium: 311mg | Iron: 9mg</p>
+
+<h1>Ingredients</h1>
+<ul>
+    <li>2 x 400g (14 oz) cans cherry tomatoes</li>
+    <li>1 red onion finely chopped</li>
+    <li>3 garlic cloves thinly sliced</li>
+    <li>1 sprig fresh rosemary</li>
+    <li>2 sprigs fresh thyme</li>
+    <li>1 teaspoon Italian herbs</li>
+    <li>½ teaspoon smoked paprika optional</li>
+    <li>pinch of chilli flakes optional</li>
+    <li>2 tablespoons Balsamic vinegar</li>
+    <li>1-2 teaspoons sugar to taste (optional)</li>
+    <li>½ cup vegetable stock/red wine</li>
+    <li>salt & pepper to taste</li>
+    <li>optional seasoning</li>
+    </ul>
+<p>For the pasta bake</p>
+<ul>
+<li>500 g (1lb) short pasta of your choice</li>
+<li>1 cup grated mozzarella cheese</li>
+<li>1 cup grated cheddar cheese</li>
+<li>fresh basil to serve</li>
+</ul>
+
+<a href="https://simply-delicious-food.com/easy-cheese-and-tomato-pasta-bake/" alt="pasta bake recipe" </a>
+
+    <ahref="https://simply-delicious-food.com/easy-cheese-and-tomato-pasta-bake/" target="_blank">visit google</a>|
+    
