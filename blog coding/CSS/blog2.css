@@ -1,0 +1,48 @@
+article{
+    background-color:lightblue;
+    inline-size: 100%;
+    border-block-start-style: solid;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+  }
+
+  a href{
+      text-align: center;
+  }
+
+  p{
+    text-align:start;
+  }
+
+nav {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  border: 10px solid blue;
+  border-radius: 100px;
+  text-decoration: none;
+}
+
+p{
+  color: blue;
+  text-align: center;
+}
+
+h1{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+
+footer{
+  background-color: red;
+  color: white;
+}
+
+footer{
+  text-align: center;
+  text-size-adjust: 100px;
+}

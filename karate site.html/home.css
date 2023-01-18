@@ -1,0 +1,28 @@
+h1{
+    font-family: serif;
+    size: 36px;
+    font-style: Bold italic;
+    text-align: center;
+}
+
+body{
+    font-family: serif;
+    size: 16px;
+    font-style: normal;
+    text-align: fully justify;
+}
+
+img{
+    width: 200px;
+    length: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin: 0;
+    padding-left: 20px;
+    border-image: auto;
+}
+
+p{
+    text-align:justify;
+}

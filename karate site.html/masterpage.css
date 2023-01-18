@@ -1,0 +1,42 @@
+nav{
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    color:blue;
+    background-color: darkseagreen;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+
+body{
+    background-color:darkseagreen;
+}
+
+a.class{
+    width: 10px;
+    length: 10px;
+}
+
+a:visited{
+    color: darkgreen
+}
+
+button{
+    border-radius: 12px;
+    padding: 10px;
+    background-color: darkseagreen;
+    list-style: none;
+}
+
+li{
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+    text-decoration: none;
+    font-family: serif;
+    font-size: 36px;
+    font-style: bold italic;
+}
