@@ -1,0 +1,22 @@
+table{
+    width: 400px;
+}
+
+th{
+    text-align: left;
+}
+
+table, th, td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+body{
+    background-color:#6699FF;
+    font-family: serif;
+    size: 16px;
+    font-style: italic;
+    alignment: fully justify;
+
+}
+   
