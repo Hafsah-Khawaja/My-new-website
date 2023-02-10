@@ -21,18 +21,45 @@ h2{
 }
 
 img{
-    width: 200px;
-    height: 200px;
-    grid-template-columns: 2fr 2fr 2fr 2fr;
-    margin-left: 70px;
-    margin-right: 10px;
+    height: 170px;
+    width: 170px;
 }
 
 nav{
     text-align: center;
-    text-size-adjust: 30px;
     border-color: aliceblue;
     border: 2px solid red;
-    border-radius: 5px;
-    padding: 5px;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 5px 15px;
+    text-size-adjust: 30px;
+}
+
+p{
+    color:aliceblue;
+    font-family: serif;
+    size: 14px;
+    font-style: italic;
+    text-align: fully justify;
+}
+
+footer{
+    color: aliceblue;
+    background-color: red;
+    font-family: serif;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+button{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }

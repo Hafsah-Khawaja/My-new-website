@@ -29,6 +29,7 @@ nav{
     border-radius: 15px;
     padding: 5px 15px;
     text-size-adjust: 30px;
+    border-color: aliceblue;
 }
 
 p{
@@ -48,3 +49,18 @@ img{
 }
 
 
+footer{
+    color: black;
+    background-color: aliceblue;
+    font-family: serif;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+button{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
