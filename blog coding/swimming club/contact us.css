@@ -23,3 +23,13 @@ button{
     background-color: #6699FF;
     list-style: none;
 }
+img{
+    width: 200px;
+    height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin: 0;
+    padding-left: 20px;
+    border-image: auto;
+}

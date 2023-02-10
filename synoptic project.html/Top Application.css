@@ -1,0 +1,38 @@
+html{
+    background-color: black;
+}
+
+h1{
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+    font-family: serif;
+    size: 34px;
+    font-style: Bold;
+}
+
+h2{
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+    font-family: serif;
+    size: 34px;
+    font-style: Bold;
+}
+
+img{
+    width: 70px;
+    height: 50px;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    margin-left: 70px;
+    margin-right: 10px;
+}
+
+nav{
+    text-align: center;
+    text-size-adjust: 30px;
+    border-color: aliceblue;
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 5px;
+}
