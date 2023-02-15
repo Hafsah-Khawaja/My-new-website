@@ -6,33 +6,36 @@ h1{
     color:aliceblue;
     background-color: red;
     text-align: center;
-    font-family: serif;
     font-style: bold;
     size: 34px;
 }
 
 h2{
+    color:aliceblue;
     background-color: red;
-    color: aliceblue;
     text-align: center;
-    font-family: serif;
+    font-style: bold;
     size: 34px;
-    font-style: Bold;
 }
 
-img{
-    height: 170px;
-    width: 170px;
+
+li{
+    list-style: none;
 }
 
 nav{
     text-align: center;
-    border-color: aliceblue;
-    border: 2px solid red;
+    border: 2px;
     border-style: solid;
-    border-radius: 15px;
-    padding: 5px 15px;
-    text-size-adjust: 30px;
+    border-radius: 5px;
+    padding: 2px 2px;
+    text-size-adjust: 10px;
+    border-color: aliceblue;
+}
+
+img{
+    height: 100px;
+    width: 100px;
 }
 
 p{
@@ -55,11 +58,11 @@ footer{
 button{
     font-size: 20px;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 15px;
     margin: 20px;
 }
 
 div{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
 }

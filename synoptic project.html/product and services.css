@@ -1,0 +1,65 @@
+html{
+    background-color: black;
+}
+
+h1{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    font-style: bold;
+    size: 34px;
+    font-family: serif;
+}
+
+h2{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    font-style: bold;
+    size: 14px;
+    font-family: serif;
+}
+
+p{
+    font-family: serif;
+    size: 14px;
+    font-style: italic;
+    text-align: justify;
+    color: aliceblue;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+footer{
+    color: aliceblue;
+    background-color: blue;
+    font-family: serif;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+button{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+nav{
+    text-align: center;
+    border-color: aliceblue;
+    border: 2px solid blue;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 5px 5px;
+    text-size-adjust: 15px;
+}
+
+div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
